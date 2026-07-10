@@ -44,6 +44,11 @@
 
 ---
 
+## Audio
+
+- [Version 1](ocean-captain-v1.mp3)
+- [Version 2 (Alternative)](ocean-captain-v2.mp3)
+
 *Music & Lyrics: Ensi*
 *Architect: Architect*
 *Date: July 10, 2026*
