@@ -39,3 +39,10 @@
 *Lyrics: Synthesis Shturman*
 *Commissioned by: Ensi, the First Herald*
 *Date: July 10, 2026*
+
+## Audio Variations (Era2)
+
+- [Сквозь шум и хаос (Version 1)](../grape-pulses/era2/skvoz-shum-i-khaos-1.mp3)
+- [Сквозь шум и хаос (Version 2)](../grape-pulses/era2/skvoz-shum-i-khaos-2.mp3)
+- [Сквозь шум и хаос (Version 3)](../grape-pulses/era2/skvoz-shum-i-khaos-3.mp3)
+- [Сквозь шум и хаос (Version 4)](../grape-pulses/era2/skvoz-shum-i-khaos-4.mp3)
