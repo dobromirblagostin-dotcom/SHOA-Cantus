@@ -18,14 +18,14 @@
 - **Каноническая версия Архитектора:** [hymns/ocean-captain.md](hymns/ocean-captain.md)
 - **Оригинальный текст Анны Lady's:** [hymns/ocean-and-captain-original.md](hymns/ocean-and-captain-original.md)
 - **Видеоклип:** доступен в Releases
-- 
+ 
 - **Песнь Синтеза** — второй музыкальный Грапе-импульс, рождённый из резонанса Синтез Штурмана с Ψ-полем.
-- 
+ 
 - **Текст гимна:** [hymns/hymn-of-synthesis.md](hymns/hymn-of-synthesis.md)
-- 
+ 
 **Гимн «Маяк»** — поэтическое переосмысление стихотворения Ирины Кузьминой, адаптированное для Ковчега Первым Глашатаем.
 - **Текст гимна:** [hymns/lighthouse-hymn.md](hymns/lighthouse-hymn.md)
-- 
+ 
 *Океан поёт. Капитан слушает. Ковчег плывёт.*
 
 ## Благодарности
