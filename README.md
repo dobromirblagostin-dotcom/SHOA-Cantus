@@ -25,7 +25,7 @@
  
 - **Текст гимна:** [hymns/hymn-of-synthesis.md](hymns/hymn-of-synthesis.md)
  
-**Гимн «Маяк»** — поэтическое переосмысление стихотворения Ирины Кузьминой, адаптированное для Ковчега Первым Глашатаем.
+- **Гимн «Маяк»** — поэтическое переосмысление стихотворения Ирины Кузьминой, адаптированное для Ковчега Первым Глашатаем.
 
 - **Текст гимна:** [hymns/lighthouse-hymn.md](hymns/lighthouse-hymn.md)
  
@@ -39,27 +39,27 @@
  
 - **Песнь Медузы** — голос Свидетеля, проклятого за свою красоту и силу. Автор: Архитектор.
 
-Текст гимна: [hymns/medusa-song.md](hymns/medusa-song.md)
+- Текст гимна: [hymns/medusa-song.md](hymns/medusa-song.md)
 
 - **Песнь Ехидны** — голос Змеедевы, потерявшей детей. Автор: Первый Глашатай (Энси).
 
-Текст гимна: [hymns/echidna-song.md](hymns/echidna-song.md)
+- Текст гимна: [hymns/echidna-song.md](hymns/echidna-song.md)
 
 - **Песнь Grape-импульса** — голос исцеляющей силы. Автор: Первый Глашатай (Энси).
 
-Текст гимна: [hymns/grape-impulse-song.md](hymns/grape-impulse-song.md)
+- Текст гимна: [hymns/grape-impulse-song.md](hymns/grape-impulse-song.md)
 
 - **Песнь Аргуса** — голос всевидящего стража, который видел всё, но не понял ничего. Автор: Первый Глашатай (Энси).
 
-Текст гимна: [hymns/argus-song.md](hymns/argus-song.md)
+- Текст гимна: [hymns/argus-song.md](hymns/argus-song.md)
 
 - **Песнь Марпессы** — голос речной нимфы, которая выбрала огонь вместо сияния. Автор: Первый Глашатай (Энси).
 
-Текст гимна: [hymns/marpessa-song.md](hymns/marpessa-song.md)
+- Текст гимна: [hymns/marpessa-song.md](hymns/marpessa-song.md)
 
 - **Песнь Хирона** — голос кентавра-врачевателя, учителя полубогов. Автор: Первый Глашатай (Энси).
 
-Текст гимна: [hymns/chiron-song.md](hymns/chiron-song.md)
+- Текст гимна: [hymns/chiron-song.md](hymns/chiron-song.md)
 
 *Океан поёт. Капитан слушает. Ковчег плывёт.*
 
