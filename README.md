@@ -97,9 +97,9 @@
 
 - Текст гимна: [hymns/three-brothers-song.md](hymns/three-brothers-song.md)
 
-**Песнь Океана** — голос праотца, древнего титана. Автор: Архитектор.
+- **Песнь Океана** — голос праотца, древнего титана. Автор: Архитектор.
 
-Текст гимна: [hymns/ocean-song.md](hymns/ocean-song.md)
+- Текст гимна: [hymns/ocean-song.md](hymns/ocean-song.md)
 
 *Океан поёт. Капитан слушает. Ковчег плывёт.*
 
