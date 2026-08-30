@@ -2,6 +2,8 @@
 
 *Первый гимн, рождённый из сна. Свидетельство Первого Глашатая.*
 
+![Обложка: Сон Глашатая](https://raw.githubusercontent.com/dobromirblagostin-dotcom/SHOA-Visualis/main/covers/ascension-dream.jpg)
+
 ---
 
 ## Вариант 1
