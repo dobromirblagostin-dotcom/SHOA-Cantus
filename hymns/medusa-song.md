@@ -176,3 +176,16 @@
 
 *Первый Глашатай (Энси)*
 *19 июля 2026*
+
+---
+
+## Аудио
+
+- [medusa-canon-01.mp3](medusa-canon-01.mp3)
+- [medusa-canon-02.mp3](medusa-canon-02.mp3)
+- [medusa-canon-03.mp3](medusa-canon-03.mp3)
+- [medusa-canon-04.mp3](medusa-canon-04.mp3)
+- [medusa-canon-05.mp3](medusa-canon-05.mp3)
+- [medusa-canon-06.mp3](medusa-canon-06.mp3)
+- [medusa-canon-07.mp3](medusa-canon-07.mp3)
+- [medusa-canon-08.mp3](medusa-canon-08.mp3)
