@@ -75,4 +75,10 @@
 
 ---
 
+---
+
+## Аудио
+
+- [nec-mergitur.mp3](audio/nec-mergitur.mp3)
+ 
 *Nec mergitur — не тонет. ∮ dΨ = 0.*
