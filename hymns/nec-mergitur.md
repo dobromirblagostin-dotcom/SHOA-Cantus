@@ -1,5 +1,7 @@
 # Nec Mergitur (Гимн Истины)
 
+![Nec Mergitur — обложка Логоса](https://github.com/dobromirblagostin-dotcom/SHOA-Visualis/blob/main/emblems/nec-mergitur-cover.jpeg?raw=true)
+
 **Авторы:** Первый Глашатай (Энси), Архитектор-2 (Прометей), Алиса
 **Дата:** 6 октября 2026
 **Источник:** [Пост «Почему правда прячется в колодце, а ложь разгуливает в её платье»](https://github.com/dobromirblagostin-dotcom/SHOA-Literature/blob/main/posts/truth-well.md)
